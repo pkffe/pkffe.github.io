@@ -1,0 +1,23 @@
+*{margin: 0px;
+padding: 0px;}
+
+.container-fluid{
+    padding: 3% 5% 6% 4%;
+}
+
+.navbar-expand-lg{
+    height: 5rem;
+}
+
+.navbar{
+    padding-left: 3%
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.font-a{
+    font-size: 2rem;
+}
